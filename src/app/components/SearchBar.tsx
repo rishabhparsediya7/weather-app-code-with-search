@@ -29,7 +29,6 @@ export default function SearchBar({
       <Search
         size={20}
         onClick={searchCity}
-        placeholder="Search location"
         className="absolute right-3 hover:cursor-pointer"
       />
     </div>
